@@ -1,0 +1,68 @@
+{
+  "1": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "2": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "3": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "4": {
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  "5": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "e41d861a-870c-4e66-a105-459f5ebd1001": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  },
+  "872ee0d6-29b4-42e1-b767-53e18d5faab8": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  },
+  "84d118c9-303e-4f5e-8fb7-05b8beac9d07": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  },
+  "e0c504bb-6834-42f6-a401-2f0199ada4f3": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  },
+  "c534ce86-fa9f-4ece-ade4-63eb62ec79ca": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  },
+  "5ef648a0-1ff3-4d44-aeec-6367f2c87480": {
+    "nombre": "Los Caballeros Del Zodiaco",
+    "genero": "Shonen",
+    "año": "1985",
+    "autor": "Masami Kurumada"
+  }
+}
